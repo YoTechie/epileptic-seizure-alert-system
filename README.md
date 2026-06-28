@@ -9,7 +9,7 @@ Wearable IoT-based embedded system for real-time epileptic seizure monitoring an
 https://github.com/user-attachments/assets/575e643e-4e36-43a9-9bb1-d6746e69801f
 
 #Dashboard
-<img width="1080" height="1578" alt="Dashboard_project" src="https://github.com/user-attachments/assets/386f1d02-7b4c-494b-845d-e5a1d772f7df" />
+<img width="900" height="1200" alt="Dashboard_project" src="https://github.com/user-attachments/assets/386f1d02-7b4c-494b-845d-e5a1d772f7df" />
 
 # IoT-Based Wearable Epileptic Seizure Alert System
 
